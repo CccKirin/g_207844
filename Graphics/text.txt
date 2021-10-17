@@ -1,1 +1,3 @@
 Adding a Graphics folder
+
+17.10. Added DOD & DOR .pngs 
